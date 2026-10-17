@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Moonlight Sonata player"      # Project title
+  title:        "Moonlight Sonata player 30s"      # Project title
   author:       "MPriede"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Plays the main theme of the Moonlight Sonata, 3rd movement, as a square wave on one pin."      # One line description of what your project does
